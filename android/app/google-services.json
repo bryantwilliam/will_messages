@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48824027101",
+    "project_id": "willmessages",
+    "storage_bucket": "willmessages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48824027101:android:7387d04c30da657e6fd834",
+        "android_client_info": {
+          "package_name": "com.wb.will_messages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48824027101-rct5othknmii1dl48gblafj6fil814ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10SzrUZiMpzR8s129vSK38qlM9bbLcVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48824027101-rct5othknmii1dl48gblafj6fil814ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
