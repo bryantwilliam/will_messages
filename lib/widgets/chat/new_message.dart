@@ -31,12 +31,6 @@ class _NewMessageState extends State<NewMessage> {
     });
   }
 
-  /*
-  final picker = ImagePicker();
-final pickedImage = await picker.getImage(...);
-final pickedImageFile = File(pickedImage.path); // requires import 'dart:io';
-  */
-
   @override
   Widget build(BuildContext context) {
     return Container(
